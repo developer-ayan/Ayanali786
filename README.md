@@ -6,7 +6,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Junaid Qureshi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Freelancer from Pakistan.</h3>
 
 
@@ -16,8 +16,7 @@
 
 - 🌱 I’m currently learning **Web 3.0 Applications development and Amazon CDK**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://developerjunaid.com)**
-- 📫 How to reach me **junaid@developerjunaid.com**
+- 📫 How to reach me **ayan.ahmed25508@gmail.com**
 - ⚡ Fun fact **I love coding and I'm a quick learner.**
 
 ## 🚀 Technologies I know
@@ -25,7 +24,7 @@
 - HTML, CSS, Javascript
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 - JAM Stack (GatsbyJs, NextJs, GraphQl, FaunaDB, Serverless Cloud Functions, Headless CMS including Strapi and Contentful)
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
+- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap Css, Sass, Styled components)
 - Typescript
 - Stripe (Payments)
 - Databases (Firebase Firestore, FaunaDB, MongoDB)
