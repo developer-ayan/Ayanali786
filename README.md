@@ -1,4 +1,4 @@
-<a href="#"> <img  src="https://www.airforshare.com/files/COQKPl.png"/></a>
+<a align="center" href="#"> <img  src="https://www.airforshare.com/files/COQKPl.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ayan Ahmed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Freelancer from Pakistan.</h3>
