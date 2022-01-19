@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/developer-junaid/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developer-junaid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ayanali786/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayanali786&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -53,15 +53,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/developer-junaid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/developerjunaid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/developerjunaidqureshi/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/ayan-ahmed-724b53226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ayan_aley/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/ayan.ail.98"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=developer-junaid">
+    <img src="https://komarev.com/ghpvc/?username=Ayanali786">
 </a>
-<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/developer-junaid?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/developer-junaid?tab=followers"><img src="https://img.shields.io/github/followers/Ayanali786?label=Followers&style=social" alt="GitHub Badge"></a>
